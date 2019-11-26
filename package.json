@@ -62,7 +62,7 @@
     "jest-plugin-context": "^2.9.0",
     "jest-sonar-reporter": "^2.0.0",
     "npm-check": "^5.9.0",
-    "rimraf": "^2.6.3",
+    "rimraf": "^2.7.1",
     "sonarqube-scanner": "^2.5.0",
     "supertest": "^4.0.2",
     "ts-jest": "^24.0.2",
